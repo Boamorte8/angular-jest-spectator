@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
+Learning to setup [Jest, Spectator](https://itnext.io/testing-angular-applications-with-jest-and-spectator-c05991579807) and [Cypress](https://medium.com/angular-in-depth/get-started-with-cypress-d6ac4b910605) in an angular project
+
+## For reading
+
+### RxJS
+* [Good practices](https://medium.com/better-programming/rxjs-best-practices-7f559d811514)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
