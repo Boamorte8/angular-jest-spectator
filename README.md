@@ -10,6 +10,7 @@ Learning to setup [Jest, Spectator](https://itnext.io/testing-angular-applicatio
 
 * [Good practices](https://medium.com/better-programming/rxjs-best-practices-7f559d811514)
 * [Spectator documentation](https://github.com/ngneat/spectator)
+* [Angular testing](https://medium.com/@wescopeland/easier-angular-unit-testing-af4b972fea12)
 
 ## Development server
 
@@ -25,11 +26,11 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `npm test` to execute the unit tests via [Jest](https://itnext.io/testing-angular-applications-with-jest-and-spectator-c05991579807).
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `npm run cypress` to execute the end-to-end tests via [Cypress](https://medium.com/angular-in-depth/get-started-with-cypress-d6ac4b910605).
 
 ## Further help
 
