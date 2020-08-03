@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
-Learning to setup [Jest, Spectator](https://itnext.io/testing-angular-applications-with-jest-and-spectator-c05991579807), [Storybook](https://medium.com/javascript-in-plain-english/storybook-for-angular-components-with-markdown-support-72950cc3d9ee), [Cypress](https://medium.com/angular-in-depth/get-started-with-cypress-d6ac4b910605) and how to add an [Angular Resolver](https://medium.com/better-programming/understanding-angular-resolver-what-was-the-problem-before-using-resolver-and-why-we-need-it-7502554ab7a3) in an angular project
+Learning to setup [Jest, Spectator](https://itnext.io/testing-angular-applications-with-jest-and-spectator-c05991579807) [other Spectator](https://medium.com/@wescopeland/easier-angular-unit-testing-af4b972fea12), [Storybook](https://medium.com/javascript-in-plain-english/storybook-for-angular-components-with-markdown-support-72950cc3d9ee), [Cypress](https://medium.com/angular-in-depth/get-started-with-cypress-d6ac4b910605) and how to add an [Angular Resolver](https://medium.com/better-programming/understanding-angular-resolver-what-was-the-problem-before-using-resolver-and-why-we-need-it-7502554ab7a3) in an angular project
 
 ## For reading
 
